@@ -1,0 +1,94 @@
+{
+    "blogs": [
+    {
+      "id": "1",
+      "title": "Choosing the Perfect Sofa Set",
+      "short_description": "Tips for selecting the ideal sofa set for your living room",
+      "long_description": "In this blog post, we provide useful tips on choosing the perfect sofa set that suits your style and comfort preferences.",
+      "slug": "choosing-sofa-set",
+      "image": "",
+      "video": "https://www.youtube.com/embed/ICyhdkZLnY4?si=6v-n6jKZjYkMhJeX"
+    },
+    {
+      "id": "2",
+      "title": "Dining Room Decor Ideas",
+      "short_description": "Explore creative ideas to enhance your dining room decor",
+      "long_description": "Discover innovative ways to elevate the aesthetic appeal of your dining room with our latest decor ideas.",
+      "slug": "dining-room-decor",
+      "image": "img/blog/slider/2.jpg",
+      "video": ""
+    },
+    {
+      "id": "3",
+      "title": "Creating a Cozy Bedroom Retreat",
+      "short_description": "Transform your bedroom into a cozy and relaxing retreat",
+      "long_description": "Explore bedroom decor and design tips to create a comfortable and inviting space for relaxation.",
+      "slug": "cozy-bedroom-retreat",
+      "image": "",
+      "video": "https://www.youtube.com/embed/zWaMb0V7fUo?si=ZaqdYGJPmnRERGEb"
+    },
+    {
+      "id": "4",
+      "title": "Office Organization Hacks",
+      "short_description": "Maximize productivity with these office organization tips",
+      "long_description": "Discover clever hacks and ideas to keep your home office organized and efficient for a productive work environment.",
+      "slug": "office-organization-hacks",
+      "image": "img/blog/slider/4.jpg",
+      "video": ""
+    },
+    {
+      "id": "5",
+      "title": "Outdoor Furniture Trends for the Season",
+      "short_description": "Stay updated on the latest trends in outdoor furniture",
+      "long_description": "Explore the hottest trends in outdoor furniture design and create a stylish and comfortable outdoor living space.",
+      "slug": "outdoor-furniture-trends",
+      "image": "",
+      "video": "https://www.youtube.com/embed/6CV7CsGrgSE?si=zCug4nSp6ir4lDSz"
+    },
+    {
+      "id": "6",
+      "title": "Kids' Room Design Inspiration",
+      "short_description": "Create a playful and imaginative space for your little ones",
+      "long_description": "Get inspired by creative kids' room designs and find ideas to make your child's room a fun and functional space.",
+      "slug": "kids-room-design",
+      "image": "img/blog/slider/6.jpg",
+      "video": ""
+    },
+    {
+      "id": "7",
+      "title": "Smart Storage Solutions for Small Spaces",
+      "short_description": "Maximize space with clever storage ideas",
+      "long_description": "Discover innovative storage solutions to make the most of limited space in your home, from small apartments to cozy rooms.",
+      "slug": "storage-solutions-small-spaces",
+      "image": "",
+      "video": "https://www.youtube.com/embed/YXr7CNdmEvQ?si=-NvM7K2-O6m0y4ld"
+    },
+    {
+      "id": "8",
+      "title": "Accent Furniture for a Stylish Home",
+      "short_description": "Enhance your home with chic accent furniture pieces",
+      "long_description": "Explore the world of accent furniture and learn how these stylish pieces can elevate the overall design of your home.",
+      "slug": "accent-furniture-stylish-home",
+      "image": "img/blog/slider/8.jpg",
+      "video": ""
+    },
+    {
+      "id": "9",
+      "title": "Luxurious Bathroom Design Ideas",
+      "short_description": "Transform your bathroom into a spa-like retreat",
+      "long_description": "Discover luxurious bathroom design ideas and tips to create a serene and spa-like atmosphere in your own home.",
+      "slug": "luxurious-bathroom-design",
+      "image": "img/blog/slider/9.jpg",
+      "video": ""
+    },
+    {
+      "id": "10",
+      "title": "Functional and Stylish Kitchen Islands",
+      "short_description": "Upgrade your kitchen with a stylish and functional island",
+      "long_description": "Explore different kitchen island designs and find inspiration to make your kitchen a more organized and stylish space.",
+      "slug": "kitchen-islands-design",
+      "image": "img/blog/slider/10.jpg",
+      "video": ""
+    }
+  ]
+}

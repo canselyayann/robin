@@ -1,0 +1,19 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "faqName": "What is the return policy?",
+      "faqDescription": "You can return any item within 30 days of purchase if it is in its original condition and packaging."
+    },
+    {
+      "id": 2,
+      "faqName": "How can I track my order?",
+      "faqDescription": "Once your order is shipped, we will send you a tracking number via email that you can use to track your order on our website."
+    },
+    {
+      "id": 3,
+      "faqName": "Do you offer international shipping?",
+      "faqDescription": "Yes, we offer international shipping to select countries. Shipping fees and delivery times may vary based on the destination."
+    }
+  ]
+}
