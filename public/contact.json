@@ -1,0 +1,23 @@
+{
+    "contact": [
+        {
+            "address": "Sabancı Üniversitesi Teknokent, Teknoloji Geliştirme Bölgesi, 34956 Tuzla/İstanbul ",
+            "phone": "+90 537 063 31 62",
+            "mail":"info@kodusta.com",
+            "pagedesc": "Please view our FAQ to find answers to your questions or send us an email for general questions! Due to unexpected volumes, it is taking us a little longer than we would like to respond to emails. Our current email response time is 3 business days."
+        }
+    ],
+    "maps": [
+        {
+            "id": 1,
+            "url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12057.958532953704!2d29.3189393!3d40.926935!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cada22a9601b2f%3A0xf83f0868c348b10e!2sTeknopark%20%C4%B0stanbul!5e0!3m2!1str!2str!4v1702994362704!5m2!1str!2str"
+        }
+    ],
+    "gelenkutusu":[
+        {
+            "name": "Gelen Kutusu",
+            "phone": "+90 537 063 31 62",
+            "mail":"info@kodusta.com"
+        }
+    ]
+}

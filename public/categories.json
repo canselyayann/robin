@@ -1,0 +1,53 @@
+{"categories": [
+    {
+      "id": "1",
+      "title": "Living Room Furniture",
+      "slug": "living-room-furniture"
+    },
+    {
+      "id": "2",
+      "title": "Dining Room Furniture",
+      "slug": "dining-room-furniture"
+    },
+    {
+      "id": "3",
+      "title": "Bedroom Furniture",
+      "slug": "bedroom-furniture"
+    },
+    {
+      "id": "4",
+      "title": "Office Furniture",
+      "slug": "office-furniture"
+    },
+    {
+      "id": "5",
+      "title": "Outdoor Furniture",
+      "slug": "outdoor-furniture"
+    },
+    {
+      "id": "6",
+      "title": "Kids' Furniture",
+      "slug": "kids-furniture"
+    },
+    {
+      "id": "7",
+      "title": "Storage Furniture",
+      "slug": "storage-furniture"
+    },
+    {
+      "id": "8",
+      "title": "Accent Furniture",
+      "slug": "accent-furniture"
+    },
+    {
+      "id": "9",
+      "title": "Bathroom Furniture",
+      "slug": "bathroom-furniture"
+    },
+    {
+      "id": "10",
+      "title": "Kitchen Furniture",
+      "slug": "kitchen-furniture"
+    }
+  ]
+}

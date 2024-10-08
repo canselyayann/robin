@@ -1,0 +1,542 @@
+[
+    {
+      "id": "1",
+      "title": "Sofa Set",
+      "description": "Comfortable sofa set for your living room",
+      "price": 599.99,
+      "image": "img/products/1.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "sofa-set",
+      "categoryid": 1,
+      "status": {
+        "new_arrival": true,
+        "featured": false,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "2",
+      "title": "Dining Table",
+      "description": "Elegant dining table for family gatherings",
+      "price": 299.99,
+      "image": "img/products/2.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "dining-table",
+      "categoryid": 2,
+      "status": {
+        "new_arrival": false,
+        "featured": true,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "3",
+      "title": "Queen Bed",
+      "description": "Stylish queen-size bed for your bedroom",
+      "price": 499.99,
+      "image": "img/products/3.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "queen-bed",
+      "categoryid": 3,
+      "status": {
+        "new_arrival": false,
+        "featured": false,
+        "on_sale": true
+      }
+    },
+    {
+      "id": "4",
+      "title": "Executive Desk",
+      "description": "Modern executive desk for your office",
+      "price": 799.99,
+      "image": "img/products/4.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "executive-desk",
+      "categoryid": 4,
+      "status": {
+        "new_arrival": true,
+        "featured": false,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "5",
+      "title": "Outdoor Lounge Set",
+      "description": "Relaxing lounge set for your outdoor space",
+      "price": 899.99,
+      "image": "img/products/5.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "outdoor-lounge-set",
+      "categoryid": 5,
+      "status": {
+        "new_arrival": false,
+        "featured": true,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "6",
+      "title": "Kids' Bunk Bed",
+      "description": "Fun and functional bunk bed for kids",
+      "price": 399.99,
+      "image": "img/products/6.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "kids-bunk-bed",
+      "categoryid": 6,
+      "status": {
+        "new_arrival": false,
+        "featured": false,
+        "on_sale": true
+      }
+    },
+    {
+      "id": "7",
+      "title": "Storage Ottoman",
+      "description": "Versatile storage ottoman for your living room",
+      "price": 129.99,
+      "image": "img/products/7.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "storage-ottoman",
+      "categoryid": 7,
+      "status": {
+        "new_arrival": true,
+        "featured": false,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "8",
+      "title": "Accent Chair",
+      "description": "Chic accent chair for added style",
+      "price": 199.99,
+      "image": "img/products/8.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "accent-chair",
+      "categoryid": 8,
+      "status": {
+        "new_arrival": false,
+        "featured": true,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "9",
+      "title": "Bathroom Vanity",
+      "description": "Elegant bathroom vanity for a stylish bathroom",
+      "price": 349.99,
+      "image": "img/products/9.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "bathroom-vanity",
+      "categoryid": 9,
+      "status": {
+        "new_arrival": false,
+        "featured": false,
+        "on_sale": true
+      }
+    },
+    {
+      "id": "10",
+      "title": "Kitchen Island",
+      "description": "Functional kitchen island for extra workspace",
+      "price": 449.99,
+      "image": "img/products/10.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "kitchen-island",
+      "categoryid": 10,
+      "status": {
+        "new_arrival": true,
+        "featured": false,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "11",
+      "title": "Leather Recliner",
+      "description": "Luxurious leather recliner for ultimate relaxation",
+      "price": 799.99,
+      "image": "img/products/11.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "leather-recliner",
+      "categoryid": 1,
+      "status": {
+        "new_arrival": false,
+        "featured": true,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "12",
+      "title": "Extendable Dining Table",
+      "description": "Versatile extendable dining table for entertaining guests",
+      "price": 349.99,
+      "image": "img/products/12.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "extendable-dining-table",
+      "categoryid": 2,
+      "status": {
+        "new_arrival": false,
+        "featured": false,
+        "on_sale": true
+      }
+    },
+    {
+      "id": "13",
+      "title": "King Size Bed",
+      "description": "Grand king-size bed for a luxurious bedroom",
+      "price": 899.99,
+      "image": "img/products/13.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "king-size-bed",
+      "categoryid": 3,
+      "status": {
+        "new_arrival": true,
+        "featured": false,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "14",
+      "title": "L-Shaped Office Desk",
+      "description": "Practical L-shaped desk for a modern office setup",
+      "price": 549.99,
+      "image": "img/products/14.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "l-shaped-office-desk",
+      "categoryid": 4,
+      "status": {
+        "new_arrival": false,
+        "featured": true,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "15",
+      "title": "Patio Dining Set",
+      "description": "Stylish patio dining set for outdoor meals",
+      "price": 679.99,
+      "image": "img/products/15.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "patio-dining-set",
+      "categoryid": 5,
+      "status": {
+        "new_arrival": false,
+        "featured": false,
+        "on_sale": true
+      }
+    },
+    {
+      "id": "16",
+      "title": "Children's Study Desk",
+      "description": "Adorable study desk for young learners",
+      "price": 149.99,
+      "image": "img/products/16.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "childrens-study-desk",
+      "categoryid": 6,
+      "status": {
+        "new_arrival": true,
+        "featured": false,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "17",
+      "title": "Bookshelf with Drawers",
+      "description": "Functional bookshelf with additional storage drawers",
+      "price": 249.99,
+      "image": "img/products/17.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "bookshelf-with-drawers",
+      "categoryid": 7,
+      "status": {
+        "new_arrival": false,
+        "featured": true,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "18",
+      "title": "Modern Armchair",
+      "description": "Sleek and modern armchair for contemporary spaces",
+      "price": 179.99,
+      "image": "img/products/18.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "modern-armchair",
+      "categoryid": 8,
+      "status": {
+        "new_arrival": false,
+        "featured": false,
+        "on_sale": true
+      }
+    },
+    {
+      "id": "19",
+      "title": "Vanity Set with Mirror",
+      "description": "Complete vanity set for a glamorous bathroom",
+      "price": 399.99,
+      "image": "img/products/19.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "vanity-set-with-mirror",
+      "categoryid": 9,
+      "status": {
+        "new_arrival": true,
+        "featured": false,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "20",
+      "title": "Breakfast Bar Stools",
+      "description": "Comfortable bar stools for a stylish kitchen",
+      "price": 89.99,
+      "image": "img/products/20.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "breakfast-bar-stools",
+      "categoryid": 10,
+      "status": {
+        "new_arrival": false,
+        "featured": true,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "21",
+      "title": "Lounge Chaise",
+      "description": "Elegant lounge chaise for a cozy corner",
+      "price": 449.99,
+      "image": "img/products/21.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "lounge-chaise",
+      "categoryid": 1,
+      "status": {
+        "new_arrival": false,
+        "featured": false,
+        "on_sale": true
+      }
+    },
+    {
+      "id": "22",
+      "title": "Round Dining Table",
+      "description": "Charming round dining table for intimate gatherings",
+      "price": 279.99,
+      "image": "img/products/22.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "round-dining-table",
+      "categoryid": 2,
+      "status": {
+        "new_arrival": true,
+        "featured": false,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "23",
+      "title": "Canopy Bed",
+      "description": "Romantic canopy bed for a dreamy bedroom",
+      "price": 699.99,
+      "image": "img/products/23.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "canopy-bed",
+      "categoryid": 3,
+      "status": {
+        "new_arrival": false,
+        "featured": true,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "24",
+      "title": "Corner Office Desk",
+      "description": "Space-saving corner desk for efficient office use",
+      "price": 379.99,
+      "image": "img/products/24.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "corner-office-desk",
+      "categoryid": 4,
+      "status": {
+        "new_arrival": false,
+        "featured": false,
+        "on_sale": true
+      }
+    },
+    {
+      "id": "25",
+      "title": "Adirondack Chair Set",
+      "description": "Classic Adirondack chair set for outdoor relaxation",
+      "price": 299.99,
+      "image": "img/products/25.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "adirondack-chair-set",
+      "categoryid": 5,
+      "status": {
+        "new_arrival": true,
+        "featured": false,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "26",
+      "title": "Children's Bookshelf",
+      "description": "Whimsical bookshelf for organizing children's books",
+      "price": 129.99,
+      "image": "img/products/26.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "childrens-bookshelf",
+      "categoryid": 6,
+      "status": {
+        "new_arrival": false,
+        "featured": true,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "27",
+      "title": "Media Console",
+      "description": "Modern media console for entertainment systems",
+      "price": 349.99,
+      "image": "img/products/27.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "media-console",
+      "categoryid": 7,
+      "status": {
+        "new_arrival": false,
+        "featured": false,
+        "on_sale": true
+      }
+    },
+    {
+      "id": "28",
+      "title": "Swivel Lounge Chair",
+      "description": "Swiveling lounge chair for flexible seating",
+      "price": 229.99,
+      "image": "img/products/28.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "swivel-lounge-chair",
+      "categoryid": 8,
+      "status": {
+        "new_arrival": true,
+        "featured": false,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "29",
+      "title": "Wall-Mounted Bathroom Cabinet",
+      "description": "Space-saving wall-mounted cabinet for the bathroom",
+      "price": 159.99,
+      "image": "img/products/1.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "wall-mounted-bathroom-cabinet",
+      "categoryid": 9,
+      "status": {
+        "new_arrival": false,
+        "featured": true,
+        "on_sale": false
+      }
+    },
+    {
+      "id": "30",
+      "title": "Bar Stool Set",
+      "description": "Stylish bar stool set for a modern kitchen",
+      "price": 199.99,
+      "image": "img/products/2.jpg",
+      "gallery": [
+        "img/products/1.jpg",
+        "img/products/2.jpg"
+      ],
+      "slug": "bar-stool-set",
+      "categoryid": 10,
+      "status": {
+        "new_arrival": false,
+        "featured": false,
+        "on_sale": true
+      }
+    }
+  ]

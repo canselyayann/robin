@@ -1,0 +1,46 @@
+{
+    "about":
+    [
+        {
+            "title":"SERVICE"
+
+        }
+    ],
+    "headings":
+    [
+        {
+            "title":"SERVICE"
+        },
+        {
+            "title":"SELECTION"
+        },
+        {
+            "title":"SATISFACTION"
+        },
+        {
+            "title":"DELIVERY"
+        },
+        {
+            "mainTitle":"A Better Way To Shop Online For Furniture",
+            "mainDescription":"Robin is more than just an online furniture store. We hand pick and curate the best in quality and style for you and your home. Why spend days driving from store to store trying to find that perfect look or unique piece. Find everything you’re looking for and more from the comfort of your own home."
+
+        }
+       
+        
+    ],
+    "content":[
+        {
+            "text":"Our Customer Care Team can answer any questions you may have, as well as provide personalized assistance with: scheduling, availability, bulk orders, custom orders and delivery options."
+        },
+        {
+           "text" : "Shop our extensive selection of quality furniture and home décor for every room, plus a vast assortment of mattresses, appliances and electronics at prices that can’t be beat!"
+        },
+        {
+          "text" : "Shop with confidence! Our Satisfaction Guarantee and Price Match Promise ensure you are always happy with your purchase."
+        },
+        {
+        "text":"Our One Of A Kind Delivery network is fast, reliable and FREE on thousands of items. Delivery is free on all purchases over $799, plus many home decor items qualify for FREE SHIPPING."
+        }
+    ]
+
+}
