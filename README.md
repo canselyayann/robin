@@ -2,7 +2,7 @@
 
 ## Proje Hakkında
 
-Bu proje, modern e-ticaret platformlarının temel işlevlerini simüle etmek için **React** ve **Redux** kullanılarak geliştirilmiştir. Uygulama, kullanıcı dostu bir arayüz ve güçlü bir durum yönetimi ile öne çıkar. Ayrıca, **React Router** ile dinamik sayfa yönlendirme ve **Alertify** ile kullanıcı bildirimleri sağlanmaktadır.
+Bu proje, modern e-ticaret platformlarının temel işlevlerini simüle etmek için Robin adlı hazır bir temayı kullanarak  **React** ve **Redux** ile geliştirilmiştir. Uygulama, kullanıcı dostu bir arayüz ve güçlü bir durum yönetimi ile öne çıkar. Ayrıca, **React Router** ile dinamik sayfa yönlendirme ve **Alertify** ile kullanıcı bildirimleri sağlanmaktadır.
 
 ---
 
